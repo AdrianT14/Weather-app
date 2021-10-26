@@ -1,0 +1,36 @@
+:root {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background-color: #39097c;
+    margin:110px ;
+   
+    
+}
+
+
+.container {
+    position: relative;
+    margin: auto;
+    width: 50%;
+    padding: 10rem;
+    
+    text-align: center;
+    color:black;
+    background-color: #7FFFD4;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px black;
+    
+}
+
+
+#cities {
+    width: 50%;
+    color: black;
+    
+}

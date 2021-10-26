@@ -1,0 +1,412 @@
+[ 
+{
+        "id": 686578,
+        "name": "Alba Iulia",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 23.58333,
+            "lat": 46.066669
+        }
+},
+{
+        "id": 686253,
+        "name": "Arad",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 21.75,
+            "lat": 46.333328
+        }
+},
+{
+        "id": 670609,
+        "name": "Piteşti",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 24.866671,
+            "lat": 44.849998
+        }
+},
+{
+        "id": 685947,
+        "name": "Bacău",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.83333,
+            "lat": 46.416672
+        }
+},
+{
+        "id": 671768,
+        "name": "Oradea",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 21.933331,
+            "lat": 47.066669
+        }
+},
+{
+        "id": 684657,
+        "name": "Bistriţa",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 24.500111,
+            "lat": 47.13316
+        }
+},
+{
+        "id": 684039,
+        "name": "Botoşani",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.66667,
+            "lat": 47.75
+        }
+},
+{
+        "id": 683844,
+        "name": "Braşov",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.606131,
+            "lat": 45.648609
+        }
+},
+{
+        "id": 683901,
+        "name": "Brăila",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 27.66667,
+            "lat": 45.083328
+        }
+},
+{
+        "id": 683506,
+        "name": "Bucharest",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.10626,
+            "lat": 44.432251
+        }
+},
+{
+        "id": 683121,
+        "name": "Buzău",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.75,
+            "lat": 45.416672
+        }
+},
+{
+        "id": 668954,
+        "name": "Reşiţa",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 21.88917,
+            "lat": 45.300831
+        }
+},
+{
+        "id": 683020,
+        "name": "Călăraşi",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 27.26667,
+            "lat": 47.616669
+        }   
+}, 
+{
+        "id": 681290,
+        "name": "Cluj-Napoca",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 23.6,
+            "lat": 46.76667
+        }
+},
+{
+        "id": 680963,
+        "name": "Constanţa",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 28.65,
+            "lat": 44.183331
+        }
+},
+{
+        "id": 667303,
+        "name": "Sfântu Gheorghe",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.783331,
+            "lat": 45.866669
+        }
+},
+{
+        "id": 665024,
+        "name": "Târgovişte",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.450001,
+            "lat": 44.933331
+        }
+},
+{
+        "id": 680332,
+        "name": "Craiova",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 23.799999,
+            "lat": 44.316669
+        }
+},
+{
+        "id": 677697,
+        "name": "Galaţi",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 28.049999,
+            "lat": 45.450001
+        }
+},
+{
+        "id": 677106,
+        "name": "Giurgiu",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.966669,
+            "lat": 43.883331
+        }
+},
+{
+        "id": 665010,
+        "name": "Târgu Jiu",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 23.283331,
+            "lat": 45.049999
+        }
+},
+{
+        "id": 673441,
+        "name": "Miercurea-Ciuc",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.799999,
+            "lat": 46.349998
+        }
+},
+{
+        "id": 679452,
+        "name": "Deva",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 22.9,
+            "lat": 45.883331
+        }
+},
+{
+        "id": 666719,
+        "name": "Slobozia",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.9,
+            "lat": 43.849998
+        }
+},
+{
+        "id": 675810,
+        "name": "Iaşi",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 27.6,
+            "lat": 47.166672
+        }
+},
+{
+        "id": 685826,
+        "name": "Baia Mare",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 23.568081,
+            "lat": 47.657291
+        }
+},
+{
+        "id": 678817,
+        "name": "Drobeta-Turnu Severin",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 22.656111,
+            "lat": 44.631939
+        }
+},
+{
+        "id": 665004,
+        "name": "Târgu-Mureş",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 24.55747,
+            "lat": 46.54245
+        }
+},
+{
+        "id": 670889,
+        "name": "Piatra Neamţ",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.33333,
+            "lat": 46.916672
+        }
+},
+{
+        "id": 666765,
+        "name": "Slatina",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.01667,
+            "lat": 47.450001
+        }
+},
+{
+        "id": 670474,
+        "name": "Ploieşti",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.01667,
+            "lat": 44.950001
+        }
+},
+{
+        "id": 667872,
+        "name": "Satu Mare",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 26.01667,
+            "lat": 47.833328
+        }
+},
+{
+        "id": 662334,
+        "name": "Zalău",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 23.049999,
+            "lat": 47.200001
+        }
+},
+{
+        "id": 667268,
+        "name": "Sibiu",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 24.15,
+            "lat": 45.799999
+        }
+},
+{
+        "id": 665849,
+        "name": "Suceava",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.75,
+            "lat": 47.583328
+        }
+},
+{
+        "id": 686502,
+        "name": "Alexandria",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 25.33333,
+            "lat": 43.98333
+        }
+},
+{
+        "id": 665087,
+        "name": "Timişoara",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 21.227221,
+            "lat": 45.749439
+        }
+},
+{
+        "id": 664517,
+        "name": "Tulcea",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 28.83333,
+            "lat": 45.0
+        }
+},
+{
+        "id": 663118,
+        "name": "Vaslui",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 27.73333,
+            "lat": 46.633331
+        }
+},
+{
+        "id": 668872,
+        "name": "Râmnicu Vâlcea",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 24.366671,
+            "lat": 45.099998
+        }
+},
+{
+        "id": 678015,
+        "name": "Focșani",
+        "state": "",
+        "country": "RO",
+        "coord": {
+            "lon": 27.183331,
+            "lat": 45.700001
+        }
+}
+]
