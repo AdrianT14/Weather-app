@@ -9,7 +9,9 @@
 body {
     background-color: #39097c;
     margin:110px ;
-   
+    background-image:url(assets/background.jpg);
+    background-repeat: no-repeat;       
+    background-size: cover;
     
 }
 
@@ -17,12 +19,12 @@ body {
 .container {
     position: relative;
     margin: auto;
-    width: 50%;
+    width: 400px;
     padding: 10rem;
     
     text-align: center;
     color:black;
-    background-color: #7FFFD4;
+    background-color: rgb(234, 224, 229,0.4);
     border-radius: 10px;
     box-shadow: 5px 5px 5px 5px black;
     
@@ -33,4 +35,11 @@ body {
     width: 50%;
     color: black;
     
+}
+
+.select {
+    height: 40px;
+    border-radius: 10%;
+    border-color: royalblue;
+    background:transparent;
 }
